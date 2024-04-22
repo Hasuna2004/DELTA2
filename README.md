@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,15 +28,6 @@
 </head>
 <body>
     <div class="container">
-        <div class="logo">
-            <img src="your_logo_url_here" alt="Logo">
-        </div>
-        <h1>Hasan Shehade Alshy5</h1>
-        <p>Welcome to my GitHub Pages website!</p>
-    </div>
-</body>
-</html>
-
         <div class="logo">
             <img src="your_logo_url_here" alt="Logo">
         </div>
